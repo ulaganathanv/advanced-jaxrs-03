@@ -2,10 +2,10 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.mypackage</groupId>
-	<artifactId>advanced-jaxrs-03</artifactId>
+	<artifactId>jaxrs-param-annotations</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>advanced-jaxrs-03 Maven Webapp</name>
+	<name>jaxrs-param-annotations Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	
 	<dependencies>
@@ -22,7 +22,7 @@
 	</dependencies>
 	
 	<build>
-		<finalName>advanced-jaxrs-03</finalName>
+		<finalName>jaxrs-param-annotations</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
